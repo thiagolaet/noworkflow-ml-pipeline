@@ -1,6 +1,7 @@
 /.noworkflow
 .last_trial
 /.ipynb_checkpoints
-/mlruns
+mlruns
+mlflow.db
 /.vscode
 .ipynb_checkpoints
