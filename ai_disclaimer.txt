@@ -1,0 +1,2 @@
+Neste trabalho, o GPT-5.5 foi utilizado como ferramenta de apoio ao processo de estudo e compreensão dos temas abordados. A IA foi empregada principalmente como ferramenta auxiliar de pesquisa para entender melhor a documentação do MLflow, relembrar e esclarecer conceitos de Machine Learning e da área de proveniência computacional.
+
